@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Users\eikel\Documents\Onderwijs\School\ATP\Eindopdracht\simulatie\build\temp.win-amd64-cpython-310\Release\simulatie\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>D:\Users\eikel\Documents\Onderwijs\School\ATP\Eindopdracht\simulatie\build\lib.win-amd64-cpython-310\linearActuator_module.cp310-win_amd64.pyd</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

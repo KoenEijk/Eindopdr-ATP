@@ -1,0 +1,5 @@
+# ninja log v5
+10	1747	7029221734229093	CMakeFiles/dht22.dir/src/sensors/DHT22.cpp.obj	8272847792371a62
+3	1952	7029221736299913	CMakeFiles/sen0308.dir/src/sensors/SEN0308.cpp.obj	49b0e36da3f64f3d
+1750	3462	7029221750775900	dht22.cp310-win_amd64.pyd	5dac4bcfdd37396a
+1952	3498	7029221751342742	sen0308.cp310-win_amd64.pyd	1c9a54ee57ba2efd

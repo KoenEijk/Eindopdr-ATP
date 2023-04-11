@@ -1,0 +1,10 @@
+^D:\USERS\EIKEL\DOCUMENTS\ONDERWIJS\SCHOOL\ATP\EINDOPDRACHT\SIMULATIE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie -BD:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie --check-stamp-file D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

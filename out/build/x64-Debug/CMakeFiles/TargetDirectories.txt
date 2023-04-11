@@ -1,0 +1,6 @@
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/out/build/x64-Debug/CMakeFiles/sen0308.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/out/build/x64-Debug/CMakeFiles/dht22.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/out/build/x64-Debug/pybind11/CMakeFiles/edit_cache.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/out/build/x64-Debug/pybind11/CMakeFiles/rebuild_cache.dir
