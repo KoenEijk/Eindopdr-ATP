@@ -1,0 +1,5 @@
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/CMakeFiles/dht22.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/CMakeFiles/sen0308.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/CMakeFiles/ALL_BUILD.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/CMakeFiles/ZERO_CHECK.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/pybind11/CMakeFiles/ALL_BUILD.dir

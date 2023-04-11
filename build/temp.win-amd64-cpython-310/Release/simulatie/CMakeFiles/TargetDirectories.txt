@@ -1,0 +1,7 @@
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie/CMakeFiles/sen0308.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie/CMakeFiles/dht22_module.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie/CMakeFiles/linearActuator_module.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie/CMakeFiles/waterPump_module.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie/CMakeFiles/ALL_BUILD.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie/CMakeFiles/ZERO_CHECK.dir
+D:/Users/eikel/Documents/Onderwijs/School/ATP/Eindopdracht/simulatie/build/temp.win-amd64-cpython-310/Release/simulatie/pybind11/CMakeFiles/ALL_BUILD.dir
